@@ -9,7 +9,7 @@ Topics (Operations in PostgreSQL):
   FindBusinessBasedOnCity, FindBusinessBasedOnLocation
 
 
-For EquiJoin----------------------------------------------------------------
+For EquiJoin----------------------------------------------------------------  
 Description: The code would take two inputs, one would be the HDFS location of the file on whichthe equijoin should be performed and other would be the HDFS location of the file, where the output should be stored.
 
 Steps to Run:
