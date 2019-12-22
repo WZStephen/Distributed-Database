@@ -8,8 +8,8 @@ Topics (Operations in PostgreSQL):
     EquiJoin  
     FindBusinessBasedOnCity, FindBusinessBasedOnLocation  
 
-For For Assignment3(Refer Parallel_Sort-Join Repo)
-For Assignment4(Refer EquiJoin Repo)
+    For For Assignment3(Refer Parallel_Sort-Join Repo)  
+    For Assignment4(Refer EquiJoin Repo)
 
 
 
