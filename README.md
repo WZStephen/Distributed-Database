@@ -6,10 +6,7 @@ Topics (Operations in PostgreSQL):
     RangeQuery, PointQuery  
     ParallelSort, Range_insersion,ParallelJoin  
     EquiJoin  
-    FindBusinessBasedOnCity, FindBusinessBasedOnLocation  
-
-    For For Assignment3(Refer Parallel_Sort-Join Repo)  
-    For Assignment4(Refer EquiJoin Repo)
+    FindBusinessBasedOnCity, FindBusinessBasedOnLocation 
 
 
 
